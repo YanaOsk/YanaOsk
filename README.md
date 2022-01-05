@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [OOP project](https://docs.google.com/document/d/17h5VGIHtqWHrzgoRjH05_PjHgCn8-EDcecrkR9sVChQ/edit)
+- 🔭 I’m currently working on [OOP project](https://docs.google.com/document/d/1LrXIX2pLvRIVHdSqVIimCCxL7UBMaogAcLKfr2dOjHk/edit)
 
 - 🌱 I’m currently learning **Java, Python, C, C++,SQL**
 
