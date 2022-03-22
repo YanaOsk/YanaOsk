@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on my final project - "Cross view match" : we need to find  the picture that took from a UAV on a picture that took from a sattelite and the location of the photo.
+- 🔭 I’m currently working on my final project - "Cross view match" : we need to find  the picture that took from  UAV on a picture, that took from a sattelite and the location of the photo.
 
 - 🌱 I’m currently learning **Java, Python, C, C++,SQL**
 
