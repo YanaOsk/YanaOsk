@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yana Oskin</h1>
-<h3 align="center">Computer Science and Mathematics student at Ariel University (third year)</h3>
+<!-- <h3 align="center">Computer Science and Mathematics student at Ariel University (third year)</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanaosk&label=Profile%20views&color=0e75b6&style=flat" alt="yanaosk" /> </p>
 
 
 
-- 🔭 I’m currently working on my final project - "Cross view match" : we need to find  the picture that took from  UAV on a picture, that took from a sattelite and the location of the photo.
+<!-- - 🔭 I’m currently working on my final project - "Cross view match" : we need to find  the picture that took from  UAV on a picture, that took from a sattelite and the location of the photo.
 
 - 🌱 I’m currently learning **Java, Python, JavaScript , HTML ,CSS, React
 
-- 📫 How to reach me **yanaoskin35@gmail.com**
+- 📫 How to reach me **yanaoskin35@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
